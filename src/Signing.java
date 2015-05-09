@@ -49,7 +49,7 @@ import org.w3c.dom.Document;
  *   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
-public class Response {
+public class Signing {
 
     static Logger logger = java.util.logging.Logger.getLogger("Response");
 
